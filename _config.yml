@@ -1,9 +1,9 @@
 # Site settings
-title: "Researcher Website"
-email: "your_email@example.com"
+title: "Naveen Ramachandran"
+email: "naveenr342@gmail.com"
 description: "A personal website for showcasing research, projects, and publications."
-baseurl: "" # Set this to the repository name if deploying to GitHub Pages
-url: "https://<your-github-username>.github.io" # Replace with your GitHub Pages URL
+baseurl: "https://github.com/praramb/praramb.github.io/" # Set this to the repository name if deploying to GitHub Pages
+url: "https://github.com/praramb/" # Replace with your GitHub Pages URL
 
 # Navigation links
 nav_links:

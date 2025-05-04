@@ -4,9 +4,9 @@ title: "Home"
 permalink: /
 ---
 
-# Welcome to My Researcher Website!
+# Welcome to My Website!
 
-Hello! I'm [Your Name], a researcher passionate about [your interests]. This website serves as a professional platform to showcase my work, publications, and projects.
+Hello! I'm [Naveen Ramchandran], a researcher passionate about [remote sensing]. This website serves as a professional platform to showcase my work, publications, and projects.
 
 - Learn more about me on the [Profile](/profile) page.
 - Explore my [Projects](/projects) and [Publications](/publications).
