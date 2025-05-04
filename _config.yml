@@ -1,0 +1,30 @@
+# Site settings
+title: "Researcher Website"
+email: "your_email@example.com"
+description: "A personal website for showcasing research, projects, and publications."
+baseurl: "" # Set this to the repository name if deploying to GitHub Pages
+url: "https://<your-github-username>.github.io" # Replace with your GitHub Pages URL
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Profile"
+    url: "/profile"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Publications"
+    url: "/publications"
+  - title: "Teaching"
+    url: "/teaching"
+  - title: "Media / Outreach"
+    url: "/media"
+  - title: "Resources"
+    url: "/resources"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Contact"
+    url: "/contact"
+
+# Markdown settings
+markdown: kramdown
