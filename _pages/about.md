@@ -19,7 +19,7 @@ redirect_from:
   </div>
   <div style="flex: 1; text-align: justify;">
     <p>
-      I am a Synthetic Aperture Radar (SAR) remote sensing scientist with strong background in SAR techniques and earth observation-based product development. 
+    I am a Synthetic Aperture Radar (SAR) remote sensing scientist with strong background in SAR techniques and earth observation-based product development. 
     </p>
     <p>
       Currently, I am a postdoctoral researcher at the NASA's Jet Propulsion Laboratory (JPL), working on mapping forest biomass using SAR data-based modelling framework under the guidance of Dr. Sassan S. Saatchi . Prior to joining JPL, I served as a Research Scientist at the North Eastern Region Node for Disaster Risk Reduction under ISRO's North-Eastern Space Application Centre (NE-SAC), developing 
