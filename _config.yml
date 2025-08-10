@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Naveen Ramachandran"
+title                    : "                  "
 title_separator          : ""
 name                     : &name 
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image/profile.png"
+  avatar           : "bio-photo-2.png"
   name             : #
   bio              : "SAR Enthusiastic | Remote Sensing | Forestry | Disaster Management"
   location         : "Pasadena"
