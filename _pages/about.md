@@ -21,6 +21,6 @@ redirect_from:
   </div>
 </div>
 
-<p>
+<p style="text-align: justify;">
   I hold a Ph.D. in Civil Engineering specializing in Geoinformatics from the Indian Institute of Technology Kanpur (IITK) working under the supervision of Prof. Onkar Dikshit. During my Ph.D. I had the privilege to be a visiting researcher at Department of Electronics, Information and Bioengineering, Politecnico di Milano under Dr. Stefano Tebaldini. Before my Ph.D. tenure, I worked with Prof. Kusala Rajendran as a project assistant for seismic mapping and fieldwork at the Centre for Earth Sciences, Indian Institute of Science . I also have a  master’s degree in Remote Sensing and GIS and bachelor's degree in Electronics and Communication Engineering from Anna University.  
 </p>
