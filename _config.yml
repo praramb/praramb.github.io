@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Naveen Ramachandran"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Naveen Ramachandran"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "SAR Enthusiastic | Remote Sensing | Forestry | Disaster Management"
+  location         : "Pasadena"
+  employer         : "Jet Propulsion Laboratory"
+  uri              : "https://science.jpl.nasa.gov/people/naveenr/"
+  email            : "naveenr342@gmail.com" 
 
   # Academic websites
   academia         : # URL
