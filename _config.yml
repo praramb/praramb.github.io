@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Naveen Ramachandran"
+title                    : "                "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "praramb/praramb.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Naveen Ramachandran"
   pronouns         : # example: "she/her"  
   bio              : "SAR Enthusiastic | Remote Sensing | Forestry | Disaster Management"
   location         : "Pasadena, CA"
