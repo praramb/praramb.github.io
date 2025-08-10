@@ -10,7 +10,7 @@ redirect_from:
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <img src="images/gemini_1.jpg" alt="My Image" style="max-width: 100%; height: auto;">
-    <figcaption style="font-size: 0.8em; text-align: center; margin-top: 0.5em;">
+    <figcaption style="font-size: 0.7em; text-align: center; margin-top: 0.5em;">
       From Pixel to Action: Building a Resilient and Sustainable Future.<br>
     </figcaption>
     <figcaption style="font-size: 0.5em; text-align: center; margin-top: 0.5em;">
@@ -18,8 +18,7 @@ redirect_from:
     </figcaption>
   </div>
   <div style="flex: 1; text-align: justify;">
-    <p>
-    I am a Synthetic Aperture Radar (SAR) remote sensing scientist with strong background in SAR techniques and earth observation-based product development. 
+    <p>I am a Synthetic Aperture Radar (SAR) remote sensing scientist with strong background in SAR techniques and earth observation-based product development. 
     </p>
     <p>
       Currently, I am a postdoctoral researcher at the NASA's Jet Propulsion Laboratory (JPL), working on mapping forest biomass using SAR data-based modelling framework under the guidance of Dr. Sassan S. Saatchi . Prior to joining JPL, I served as a Research Scientist at the North Eastern Region Node for Disaster Risk Reduction under ISRO's North-Eastern Space Application Centre (NE-SAC), developing 
