@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<figure style="display: flex; flex-direction: column; align-items: center;">
-  <img src="images/gemini_about.jpg" alt="My cool image" style="max-width: 100%; height: auto;">
-  <figcaption style="font-size: 1.2em; text-align: center; margin-top: 0.5em;">
-    From Pixel to Action: Building a Resilient and Sustainable Future.<br>
-    (Image generated qith Google Gemini)
-  </figcaption>
-</figure>
-
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <img src="images/gemini_about.jpg" alt="My Image" style="max-width: 100%; height: auto;">
