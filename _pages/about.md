@@ -10,10 +10,12 @@ redirect_from:
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <img src="images/gemini_1.jpg" alt="My Image" style="max-width: 100%; height: auto;">
-    <figcaption style="font-size: 0.5em; text-align: center; margin-top: 0.5em;">
+    <figcaption style="font-size: 0.8em; text-align: center; margin-top: 0.5em;">
       From Pixel to Action: Building a Resilient and Sustainable Future.<br>
+    </figcaption>
+    <figcaption style="font-size: 0.5em; text-align: center; margin-top: 0.5em;">
       (Image generated with Google Gemini)
-    s</figcaption>
+    </figcaption>
   </div>
   <div style="flex: 1; text-align: justify;">
     <p>
