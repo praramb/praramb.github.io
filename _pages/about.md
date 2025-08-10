@@ -15,7 +15,7 @@ redirect_from:
       (Image generated with Google Gemini)
     s</figcaption>
   </div>
-  <div style="flex: 1; font-size: 1.1em; text-align: justify;">
+  <div style="flex: 1; text-align: justify;">
     <p>
       I am a Synthetic Aperture Radar (SAR) remote sensing scientist with strong background in SAR techniques and earth observation-based product development. 
     </p>
