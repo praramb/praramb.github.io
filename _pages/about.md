@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
-    <img src="images/gemini_about.jpg" alt="My Image" style="max-width: 100%; height: auto;">
+    <img src="images/gemini_1.jpg" alt="My Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1; font-size: 1.1em; text-align: justify;">
     <p>
